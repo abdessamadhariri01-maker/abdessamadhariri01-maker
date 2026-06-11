@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Technology/Laptop.webp" width="80"/>
+
 # Abdessamad Hariri
 
 ### Master Student in Data Science & Information Systems Security
@@ -115,6 +117,21 @@ Passionate Master's student in **Data Science and Security of Information System
 ### Semester 3
 - Advanced Oracle Databases | Cloud Computing | Computer Vision
 - NLP | Big Data Analytics | AI for Cybersecurity | IT Project Management
+
+---
+
+## Projects
+
+### DDoS Detection System
+<img src="https://img.shields.io/badge/Python-FastAPI_Streamlit-3776AB?style=flat-square" />
+<img src="https://img.shields.io/badge/ML-Random_Forest_%26_SVM-F7931E?style=flat-square" />
+<img src="https://img.shields.io/badge/Dataset-CIC--DDoS2019-77_Features-blue?style=flat-square" />
+
+An ML-powered DDoS attack detection system with a FastAPI backend serving pre-trained RF and SVM models, and a real-time Streamlit cybersecurity dashboard. Features 3 detection modes: manual input, CSV upload, and live traffic simulation.
+
+<a href="https://github.com/abdessamadhariri01-maker/DDoS-Detection">
+  <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
