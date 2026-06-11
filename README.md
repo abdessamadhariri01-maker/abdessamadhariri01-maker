@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Technology/Laptop.webp" width="80"/>
-
 # Abdessamad Hariri
 
 ### Master Student in Data Science & Information Systems Security
