@@ -133,6 +133,17 @@ An ML-powered DDoS attack detection system with a FastAPI backend serving pre-tr
   <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+### Regularisation en Machine Learning
+<img src="https://img.shields.io/badge/Python-Scikit_Learn-3776AB?style=flat-square" />
+<img src="https://img.shields.io/badge/Ridge_Lasso_ElasticNet-Overfitting_Analysis-F7931E?style=flat-square" />
+<img src="https://img.shields.io/badge/Best_Result-Lasso_--24.40%25_MSE-green?style=flat-square" />
+
+Comparative study of regularization techniques (Ridge L2, Lasso L1, ElasticNet) to reduce overfitting on an energy efficiency dataset. Lasso achieved 24.40% MSE improvement by selecting only 4/23 relevant features out of 23, effectively eliminating noise variables.
+
+<a href="https://github.com/abdessamadhariri01-maker/Regularisation-ML">
+  <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 ---
 
 ## Contact & Connect
