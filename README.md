@@ -1,170 +1,68 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Technology/Laptop.webp" width="80"/>
-
 # Abdessamad Hariri
 
-### Master Student in Data Science & Information Systems Security
-**Excellence Track** | Python, ML & Deep Learning | Security Analyst & Data Enthusiast
-
-<img src="https://img.shields.io/badge/Location-Béni_Mellal%2C_Morocco-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Email-abhariri2001%40gmail.com-red?style=flat-square" />
-<img src="https://img.shields.io/badge/LinkedIn-abdessamad--hariri-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-
-</div>
-
----
-
-## About Me
-
-Passionate Master's student in **Data Science and Security of Information Systems** at the **Faculty of Polydisciplinary, Béni Mellal** (Université Sultan Moulay Slimane). I am part of the prestigious **Excellence Track**, focusing on the intersection of advanced data analytics and robust system security.
-
-**What I do:** I leverage AI and Machine Learning to build smarter systems while ensuring they are cryptographically secure and resilient against cyber threats.
-
-**Always eager to connect with professionals in AI and Cybersecurity to explore innovative solutions.**
-
----
-
-## Technical Toolkit
-
-### Data Science & AI
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NoSQL-336791?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-00B4D8?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-### Cybersecurity
-<p>
-  <img src="https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=lock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network_Security-4CAF50?style=for-the-badge&logo=networkx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Security-E34F26?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT_Security-00897B?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Risk_Assessment-FF5722?style=for-the-badge&logo=security&logoColor=white" />
-</p>
-
-### Web & Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-## Experience
-
-### Data Science Intern — INADRE SARL AU
-<img src="https://img.shields.io/badge/Sep_2024_-_Dec_2024-4_months-blue" />
-
-*Rabat, Morocco*
-
-- Utilized **Python** and **SQL** to process and analyze complex datasets
-- Collaborated on data-driven tasks within the framework of national projects (Marche n. 67/EAJ23)
-- Applied data science techniques to support decision-making processes
-
----
-
-### Web Development Intern — Para CDR Pharm
-<img src="https://img.shields.io/badge/Apr_2023_-_Jun_2023-3_months-green" />
-
-*Beni Mellal, Morocco*
-
-- Designed and developed a **professional corporate website**
-- Focused on creating a **responsive and user-friendly interface** using modern web technologies
-- Delivered a complete web solution meeting the client's requirements
-
----
-
-### IT Intern — RADEET
-<img src="https://img.shields.io/badge/Aug_2022_-_Sep_2022-2_months-orange" />
-
-*Beni Mellal, Morocco*
-
-- Gained hands-on experience in the **IT department**
-- Assisted in **maintaining and securing information systems** and network infrastructure
-- Developed practical skills in system administration and IT support
-
----
-
-## Education
-
-| Institution | Degree | Period |
-|:---|:---|:---|
-| **Faculte Polydisciplinaire, Beni Mellal** (USMS) | Master's Degree (Excellence Track) — *Data Science et Securite des Systemes d'Information* | 2025 — Present |
-| **Faculte Polydisciplinaire, Beni Mellal** (USMS) | Licence d'Excellence — *Data Science et Securite des Systemes d'Information* | 2024 — 2025 |
-| **Ecole Superieure de Technologie, Beni Mellal** (USMS) | DUT — *Genie Informatique* | 2021 — 2023 |
-
----
-
-## Master's Coursework (2025-2026)
-
-### Semester 1
-- NoSQL Databases | IoT Communication Technologies | Advanced Python
-- Advanced Machine Learning | UML & Design Patterns | AI & Innovation
-
-### Semester 2
-- Neural Networks & Deep Learning | Reinforcement Learning | Scientific Research Methodology
-- Advanced Data Analysis | Web Application Security & Data Protection | Data Warehouses
-
-### Semester 3
-- Advanced Oracle Databases | Cloud Computing | Computer Vision
-- NLP | Big Data Analytics | AI for Cybersecurity | IT Project Management
+Master's student in **Data Science & Information Systems Security** at USMS, Béni Mellal. I build ML systems with a focus on network security and applied data science — currently working on intrusion detection and traffic analysis pipelines.
 
 ---
 
 ## Projects
 
 ### DDoS Detection System
-<img src="https://img.shields.io/badge/Python-FastAPI_Streamlit-3776AB?style=flat-square" />
-<img src="https://img.shields.io/badge/ML-Random_Forest_%26_SVM-F7931E?style=flat-square" />
-<img src="https://img.shields.io/badge/Dataset-CIC--DDoS2019-77_Features-blue?style=flat-square" />
+`Python` `FastAPI` `Scikit-learn` `Streamlit` `CIC-DDoS2019`
 
-An ML-powered DDoS attack detection system with a FastAPI backend serving pre-trained RF and SVM models, and a real-time Streamlit cybersecurity dashboard. Features 3 detection modes: manual input, CSV upload, and live traffic simulation.
+ML-based DDoS attack detection system with a REST API backend serving pre-trained Random Forest and SVM classifiers, paired with a real-time Streamlit dashboard.
 
-<a href="https://github.com/abdessamadhariri01-maker/DDoS-Detection">
-  <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Trained on the CIC-DDoS2019 dataset (77 network flow features), the system classifies incoming traffic as **BENIGN** or **DDoS** across three detection modes: manual single-input, CSV batch upload, and live traffic simulation.
 
-### Regularisation en Machine Learning
-<img src="https://img.shields.io/badge/Python-Scikit_Learn-3776AB?style=flat-square" />
-<img src="https://img.shields.io/badge/Ridge_Lasso_ElasticNet-Overfitting_Analysis-F7931E?style=flat-square" />
-<img src="https://img.shields.io/badge/Best_Result-Lasso_--24.40%25_MSE-green?style=flat-square" />
+**What I built:**
+- FastAPI backend with 6 REST endpoints — model health checks, single and batch predictions, feature schema retrieval, detection statistics, and event history export
+- Pydantic-based request validation that auto-aligns partial inputs to the full 77-feature schema (missing fields default to 0)
+- Confidence scoring layer — `predict_proba` for Random Forest, sigmoid-mapped `decision_function` for SVM
+- Streamlit dashboard with Plotly real-time charts, DDoS alert banners, detection history table, and CSV export for predictions, events, and raw feature vectors
 
-Comparative study of regularization techniques (Ridge L2, Lasso L1, ElasticNet) to reduce overfitting on an energy efficiency dataset. Lasso achieved 24.40% MSE improvement by selecting only 4/23 relevant features out of 23, effectively eliminating noise variables.
-
-<a href="https://github.com/abdessamadhariri01-maker/Regularisation-ML">
-  <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[View repository →](https://github.com/abdessamadhariri01-maker/DDoS-Detection)
 
 ---
 
-## Contact & Connect
+### Regularization in Machine Learning
+`Python` `Scikit-learn` `Ridge` `Lasso` `ElasticNet`
 
-<div align="center">
+Comparative analysis of L2 (Ridge), L1 (Lasso), and ElasticNet regularization on an energy efficiency dataset (200 observations, 24 variables) to evaluate how each technique handles overfitting when 10 of 23 features are pure noise.
 
-<a href="mailto:abhariri2001@gmail.com">
-  <img src="https://img.shields.io/badge/Email-abhariri2001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/abdessamad-hariri">
-  <img src="https://img.shields.io/badge/LinkedIn-abdessamad__hariri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+**Key findings:**
+- **Lasso (λ=1)** achieved the strongest generalization — 24.4% reduction in test MSE vs. the unregularized baseline, while automatically selecting only **4 out of 23 features** and zeroing out all noise variables
+- **ElasticNet (λ=0.1)** offered a balanced trade-off at 5.4% MSE improvement, keeping 21 features
+- **Ridge (λ=10)** provided marginal improvement (1.0%) by uniformly shrinking all coefficients without feature elimination
 
-</div>
+The baseline model showed clear overfitting (train MSE 18.4 vs. test MSE 42.2). Lasso was the only technique to fully close that gap, bringing test MSE down to 31.9 while maintaining a much smaller train-test spread (25.2 vs. 31.9).
+
+[View repository →](https://github.com/abdessamadhariri01-maker/Regularisation-ML)
 
 ---
 
-<div align="center">
+## Experience
 
-<img src="https://komarev.com/ghpvc/?username=abdessamadhariri01-maker&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+**Data Science Intern** — INADRE SARL AU *(Rabat, Sep 2024 – Dec 2024)*
+- Processed and analyzed national project datasets using Python and SQL (Marché n. 67/EAJ23)
+- Built data pipelines to support structured decision-making
 
-*"Leveraging AI to build smarter, more secure systems."*
+**Web Development Intern** — Para CDR Pharm *(Béni Mellal, Apr 2023 – Jun 2023)*
+- Designed and developed a responsive corporate website end-to-end
 
-</div>
+**IT Intern** — RADEET *(Béni Mellal, Aug 2022 – Sep 2022)*
+- Maintained information systems and assisted with network infrastructure operations
+
+---
+
+## Education
+
+| Program | Institution | Period |
+|:---|:---|:---|
+| Master's (Excellence Track) — Data Science & Information Systems Security | USMS, Faculté Polydisciplinaire de Béni Mellal | 2025 – Present |
+| Licence d'Excellence — Data Science & Information Systems Security | USMS, Faculté Polydisciplinaire de Béni Mellal | 2024 – 2025 |
+| DUT — Génie Informatique | USMS, École Supérieure de Technologie de Béni Mellal | 2021 – 2023 |
+
+---
+
+## Contact
+
+[abhariri2001@gmail.com](mailto:abhariri2001@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abdessamad-hariri) · [GitHub](https://github.com/abdessamadhariri01-maker)
