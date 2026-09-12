@@ -12,7 +12,7 @@ Master's student at the crossroads of **Data Science and Cybersecurity**. I buil
 
 - **Focus** — Machine Learning, Deep Learning, Cybersécurité
 - **Core stack** — Python, FastAPI, scikit-learn
-- **Open to** — PFE internship (Feb – Jun 2027) in Data Science or Cybersecurity
+- **Open to** — Pre-hire internship (stage pré-embauche) : 4–6 months starting Feb – Mar 2027, in Data Science or Cybersecurity
 
 ---
 
