@@ -8,7 +8,7 @@ Université Sultan Moulay Slimane · Béni Mellal, Morocco
 
 ---
 
-Master's student focused on **machine learning applied to network security**. I build end-to-end detection systems: data processing, model training, REST APIs and interactive dashboards.
+Master's student at the crossroads of **Data Science and Cybersecurity**. I build end-to-end ML systems — data processing, model training, REST APIs and interactive dashboards — with a strong focus on the security and resilience of information systems.
 
 - **Focus** — Machine Learning, Deep Learning, Cybersécurité
 - **Core stack** — Python, FastAPI, scikit-learn
@@ -34,10 +34,10 @@ Master's student focused on **machine learning applied to network security**. I 
 
 | Program | Institution | Period |
 |:---|:---|:---|
-| Master (Parcours Excellence) — Data Science et Sécurité des Systèmes d'Information | Faculté des Sciences Appliquées de Beni Mellal — USMS | Sep 2025 – Jun 2027 |
-| Licence d'Excellence — Data Science et Sécurité des Systèmes d'Information | Faculté des Sciences Appliquées de Beni Mellal — USMS | Nov 2024 – Jul 2025 |
-| Année universitaire — Tronc Commun Économie (Sciences Économiques) | Faculté d'Économie et de Gestion de Beni Mellal — USMS | Sep 2023 – Jun 2024 |
-| DUT — Génie Informatique | École Supérieure de Technologie de Beni Mellal — USMS | Sep 2021 – Jun 2023 |
+| Master — Data Science et Sécurité des Systèmes d'Information (D3SI, Parcours Excellence) | FSA Beni Mellal — USMS | 2025 – En cours |
+| Licence d'Excellence — Data Science & Sécurité des Systèmes d'Information | FSA Beni Mellal — USMS | nov. 2024 – juil. 2025 |
+| Sciences Économiques | FEG Beni Mellal — USMS | 2023 – 2024 |
+| DUT — Génie Informatique | EST Beni Mellal — USMS | 2021 – 2023 |
 
 ---
 
@@ -84,6 +84,6 @@ Comparative analysis of L1, L2 and ElasticNet regularization on an energy-effici
 ## GitHub
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdessamadhariri01-maker" alt="Languages per repository"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdessamadhariri01-maker" alt="Most committed languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdessamadhariri01-maker&v=2" alt="Languages per repository"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdessamadhariri01-maker&v=2" alt="Most committed languages"/>
 </p>
