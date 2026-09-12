@@ -1,6 +1,6 @@
 # Abdessamad Hariri
 
-**Master's Student — Data Science & Information Systems Security (D3SI, Excellence Track)**
+**Master's Student — Data Science et Sécurité des Systèmes d'Information (D3SI, Parcours Excellence)**
 Université Sultan Moulay Slimane · Béni Mellal, Morocco
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdessamad-hariri)
@@ -10,9 +10,34 @@ Université Sultan Moulay Slimane · Béni Mellal, Morocco
 
 Master's student focused on **machine learning applied to network security**. I build end-to-end detection systems: data processing, model training, REST APIs and interactive dashboards.
 
-- **Focus** — intrusion and DDoS detection, traffic analysis pipelines
-- **Coursework** — Deep Learning, NLP, Big Data Analytics, AI for Cybersecurity, Cloud Computing
+- **Focus** — Machine Learning, Deep Learning, Cybersécurité
+- **Core stack** — Python, FastAPI, scikit-learn
 - **Open to** — PFE internship (Feb – Jun 2027) in Data Science or Cybersecurity
+
+---
+
+## Experience
+
+**Data Science Intern — INADRE SARL AU** · Rabat · Sep 2024 – Dec 2024
+- Processed and analyzed national project datasets using Python and SQL (Marché n. 67/EAJ23)
+- Built data pipelines to support structured decision-making
+
+**Web Development Intern — Para CDR Pharm** · Béni Mellal · Apr 2023 – Jun 2023
+- Designed and developed a responsive corporate website end-to-end
+
+**IT Intern — RADEET** · Béni Mellal · Aug 2022 – Sep 2022
+- Maintained information systems and assisted with network infrastructure operations
+
+---
+
+## Education
+
+| Program | Institution | Period |
+|:---|:---|:---|
+| Master (Parcours Excellence) — Data Science et Sécurité des Systèmes d'Information | Faculté des Sciences Appliquées de Beni Mellal — USMS | Sep 2025 – Jun 2027 |
+| Licence d'Excellence — Data Science et Sécurité des Systèmes d'Information | Faculté des Sciences Appliquées de Beni Mellal — USMS | Nov 2024 – Jul 2025 |
+| Année universitaire — Tronc Commun Économie (Sciences Économiques) | Faculté d'Économie et de Gestion de Beni Mellal — USMS | Sep 2023 – Jun 2024 |
+| DUT — Génie Informatique | École Supérieure de Technologie de Beni Mellal — USMS | Sep 2021 – Jun 2023 |
 
 ---
 
@@ -47,30 +72,6 @@ Comparative analysis of L1, L2 and ElasticNet regularization on an energy-effici
 
 ---
 
-## Experience
-
-**Data Science Intern — INADRE SARL AU** · Rabat · Sep 2024 – Dec 2024
-- Processed and analyzed national project datasets using Python and SQL (Marché n. 67/EAJ23)
-- Built data pipelines to support structured decision-making
-
-**Web Development Intern — Para CDR Pharm** · Béni Mellal · Apr 2023 – Jun 2023
-- Designed and developed a responsive corporate website end-to-end
-
-**IT Intern — RADEET** · Béni Mellal · Aug 2022 – Sep 2022
-- Maintained information systems and assisted with network infrastructure operations
-
----
-
-## Education
-
-| Program | Institution | Period |
-|:---|:---|:---|
-| Master — Data Science & Information Systems Security (Excellence Track) | Université Sultan Moulay Slimane, Béni Mellal | 2025 – 2027 |
-| Licence d'Excellence — Data Science & Information Systems Security | Université Sultan Moulay Slimane, Béni Mellal | 2024 – 2025 |
-| DUT — Génie Informatique | École Supérieure de Technologie, Béni Mellal | 2021 – 2023 |
-
----
-
 ## Stack
 
 **Languages** — Python, SQL
@@ -82,4 +83,7 @@ Comparative analysis of L1, L2 and ElasticNet regularization on an energy-effici
 
 ## GitHub
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdessamadhariri01-maker&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdessamadhariri01-maker" alt="Languages per repository"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdessamadhariri01-maker" alt="Most committed languages"/>
+</p>
