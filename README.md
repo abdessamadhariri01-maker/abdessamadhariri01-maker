@@ -78,12 +78,3 @@ Comparative analysis of L1, L2 and ElasticNet regularization on an energy-effici
 **ML & Data** — scikit-learn, pandas, NumPy, Jupyter
 **Backend & Apps** — FastAPI, Streamlit, Plotly
 **Tools** — Git, Linux
-
----
-
-## GitHub
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdessamadhariri01-maker&v=2" alt="Languages per repository"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdessamadhariri01-maker&v=2" alt="Most committed languages"/>
-</p>
